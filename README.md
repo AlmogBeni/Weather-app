@@ -1,4 +1,4 @@
-# Weather App.
+# Weather App
 * This is an app to get info about the current weather at your city (or others)
 * The info is being taked from OpenWeatherMap website using built in API key from there.
 * You can change the variabels of the program accroding to your specifications.
